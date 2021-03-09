@@ -1,11 +1,12 @@
 ## 🖐 Bienvenue sur mon GitHub ! &nbsp; ![](https://komarev.com/ghpvc/?username=MaxHwK&label=Visiteurs+:) 👩🏼‍🤝‍🧑🏻
 
-<div align="justify"> Je me présente, je m'appelle <b>GIRON Maxence</b>, j'ai __20 ans__, je suis actuellement en 2ème année de __DUT Informatique__ à 
-l'IUT de Metz, je souhaite poursuivre mon cursus universitaire en __Licence Professionnelle__ spécialisée dans le __Développement Web et Mobile pour le Commerce 
-Electronique__. À l'avenir, j'aspire à évoluer dans le milieu professionnel en tant que __Développeur Web__. Par ailleurs, il se trouve que j'apprécie 
-le contact ainsi que le fait d'avoir des responsabilités, si bien que le rôle de __Chef de Projet__ m'intéresse lui aussi tout particulièrement. </div>
+<div align="justify"> Je me présente, je m'appelle <b>GIRON Maxence</b>, j'ai <b>20 ans</b>, je suis actuellement en 2ème année de <b>DUT Informatique</b> à 
+     l'IUT de Metz, je souhaite poursuivre mon cursus universitaire en <b>Licence Professionnelle</b> spécialisée dans le <b>Développement Web et Mobile pour le Commerce 
+     Electronique</b>. À l'avenir, j'aspire à évoluer dans le milieu professionnel en tant que <b>Développeur Web</b>. Par ailleurs, il se trouve que j'apprécie 
+     le contact ainsi que le fait d'avoir des responsabilités, si bien que le rôle de <b>Chef de Projet</b> m'intéresse lui aussi tout particulièrement. 
+</div>
 
-### 🧑 Un peu plus d'infos sur __moi__ ici :
+### 🧑 Un peu plus d'infos sur <b>moi</b> ici :
 
 - 💾 &nbsp; Si vous souhaitez consulter mes différents projets → [Cliquez ici](https://github.com/MaxHwK?tab=repositories).
 - 🌎 &nbsp; Si vous souhaitez consulter mon Portfolio → [Cliquez ici](https://maxhwk.github.io/).
