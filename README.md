@@ -13,7 +13,7 @@ le contact ainsi que le fait d'avoir des responsabilités, si bien que le rôle 
 - 📝 &nbsp; Si vous souhaitez consulter mon CV → [Cliquez ici](https://github.com/MaxHwK/MaxHwK.github.io/blob/main/static/doc/CV_Giron_Maxence.pdf).
 
 - 📧 &nbsp; Pour toutes autres questions, n'hésitez pas à me contacter ici → gironmaxence.pro@gmail.com  
-Je tâcherai d'y répondre au plus vite. ⌚
+     Je tâcherai d'y répondre au plus vite ... ⌚
 
 ### 📈 Mes stats GitHub :
 
