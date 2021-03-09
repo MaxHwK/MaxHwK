@@ -6,7 +6,7 @@
      le contact ainsi que le fait d'avoir des responsabilités, si bien que le rôle de <b>Chef de Projet</b> m'intéresse lui aussi tout particulièrement. 
 </div>
 
-### 🧑 Un peu plus d'infos sur <b>moi</b> ici :
+### 🧑 Un peu plus d'infos sur moi ici :
 
 - 💾 &nbsp; Si vous souhaitez consulter mes différents projets → [Cliquez ici](https://github.com/MaxHwK?tab=repositories).
 - 🌎 &nbsp; Si vous souhaitez consulter mon Portfolio → [Cliquez ici](https://maxhwk.github.io/).
