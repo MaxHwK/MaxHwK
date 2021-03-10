@@ -8,7 +8,7 @@
 
 ### 🧑 Un peu plus d'infos sur moi ici :
 
-- 💾 &nbsp; Si vous souhaitez consulter mes différents <b>projets</b> → [Cliquez ici](https://github.com/MaxHwK?tab=repositories).
+- 💾 &nbsp; Si vous souhaitez consulter mes différents <b>Projets</b> → [Cliquez ici](https://github.com/MaxHwK?tab=repositories).
 - 🌎 &nbsp; Si vous souhaitez consulter mon <b>Portfolio</b> → [Cliquez ici](https://maxhwk.github.io/).
 - 👨‍💻 &nbsp; Si vous souhaitez consulter mon <b>LinkedIn</b> → [Cliquez ici](https://www.linkedin.com/in/maxence-giron/).
 - 📝 &nbsp; Si vous souhaitez consulter mon <b>CV</b> → [Cliquez ici](https://github.com/MaxHwK/MaxHwK.github.io/blob/main/static/doc/CV_Giron_Maxence.pdf).
