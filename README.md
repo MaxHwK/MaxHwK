@@ -1,7 +1,7 @@
 ## 🖐 Bienvenue sur mon GitHub ! &nbsp; ![](https://komarev.com/ghpvc/?username=MaxHwK&label=Visiteurs+:) 👩🏼‍🤝‍🧑🏻
 
-<div align="justify"> Je me présente, je m'appelle <b>Maxence Giron</b>, j'ai <b>20 ans</b>, je suis actuellement en 2ème année de <b>DUT Informatique</b> à 
-     l'IUT de Metz, je souhaite poursuivre mon cursus universitaire en <b>Licence Professionnelle</b> spécialisée dans le <b>Développement Web et Mobile pour le Commerce 
+<div align="justify"> Je me présente, je m'appelle <b>Maxence Giron</b>, j'ai <b>20 ans</b>, je suis actuellement en 2ème Année de <b>DUT Informatique</b> à 
+     l'IUT de Metz et souhaite poursuivre mon cursus universitaire en <b>Licence Professionnelle</b> spécialisée dans le <b>Développement Web et Mobile pour le Commerce 
      Electronique</b>. À l'avenir, j'aspire à évoluer dans le milieu professionnel en tant que <b>Développeur Web</b>. Par ailleurs, il se trouve que j'apprécie 
      le contact ainsi que le fait d'avoir des responsabilités, si bien que le rôle de <b>Chef de Projet</b> m'intéresse lui aussi tout particulièrement. 
 </div>
