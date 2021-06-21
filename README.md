@@ -1,5 +1,10 @@
-## 🖐 Bienvenue sur mon GitHub ! &nbsp; ![](https://komarev.com/ghpvc/?username=MaxHwK&label=Visiteurs+:) 👩🏼‍🤝‍🧑🏻
+<div align="center">
+    
+### 🖐 Bienvenue sur mon GitHub ! &nbsp; ![](https://komarev.com/ghpvc/?username=MaxHwK&label=Visiteurs+:) 👩🏼‍🤝‍🧑🏻
 
+</div>
+
+#
 
 ### 🧑 Présentation
 
@@ -12,7 +17,6 @@
 - 🌎 &nbsp; Si vous souhaitez consulter mon <b>Portfolio</b> → [Cliquez ici](https://maxhwk.github.io/).
 - 👨‍💻 &nbsp; Si vous souhaitez consulter mon <b>LinkedIn</b> → [Cliquez ici](https://www.linkedin.com/in/maxence-giron/).
 - 📝 &nbsp; Si vous souhaitez consulter mon <b>CV</b> → [Cliquez ici](https://maxhwk.github.io/static/doc/CV_Giron_Maxence.pdf).
-
 - 📧 &nbsp; Pour toutes autres <b>questions</b>, n'hésitez pas à me contacter ici → gironmaxence.pro@gmail.com  
      
 ### 📈 Mes stats GitHub
@@ -20,7 +24,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaxHwK&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 #
-### 😉 Merci d'être passé·e & Bonne journée ! ⛅
+
 <div align="center">
 
 ### 😉 Merci d'être passé·e & Bonne journée ! ⛅
