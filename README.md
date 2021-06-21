@@ -23,6 +23,6 @@
 
 <div align="center">
 
-## 😉 Merci d'être passé·e & Bonne journée ! ⛅
+### 😉 Merci d'être passé·e & Bonne journée ! ⛅
  
 </div>
