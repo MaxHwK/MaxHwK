@@ -1,7 +1,7 @@
 <div align="center">
     
-## 🖐 Bienvenue sur mon GitHub ! &nbsp; ![](https://komarev.com/ghpvc/?username=MaxHwK&label=Visiteurs+:) 👩🏼‍🤝‍🧑🏻
-<br>
+## 🖐 Bienvenue sur mon GitHub ! &nbsp; ![](https://komarev.com/ghpvc/?username=MaxHwK&label=Visiteurs+:) 👩🏼‍🤝‍🧑🏻 <br>
+
 </div>
 
 ### 🧑 Présentation
