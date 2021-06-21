@@ -4,11 +4,9 @@
 
 </div>
 
-#
-
 ### 🧑 Présentation
 
-<div align="justify"> Je m'appelle <b>Maxence Giron</b>, j'ai <b>20 ans</b>, je suis actuellement en formation pour devenir <b>Développeur Web Front-End</b> | <b>UX Designer</b> | <b>Intégrateur Web</b>. Par ailleurs, il se trouve que j'apprécie le contact ainsi que le fait d'avoir des responsabilités, si bien que le rôle de <b>Chef de Projet Web</b> m'intéresse lui aussi tout particulièrement. 
+<div align="justify"> Je m'appelle <b>Maxence Giron</b>, j'ai <b>20 ans</b> et je suis actuellement en formation pour devenir <b>Développeur Web Front-End</b> | <b>UX Designer</b> | <b>Intégrateur Web</b>. Par ailleurs, il se trouve que j'apprécie le contact ainsi que le fait d'avoir des responsabilités, si bien que le rôle de <b>Chef de Projet Web</b> m'intéresse lui aussi tout particulièrement. 
 </div>
 
 ### ℹ Un peu plus d'infos sur moi
