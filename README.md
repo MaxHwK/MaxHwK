@@ -1,8 +1,10 @@
 <div align="center">
     
-## 🖐 Bienvenue sur mon GitHub ! &nbsp; ![](https://komarev.com/ghpvc/?username=MaxHwK&label=Visiteurs+:) 👩🏼‍🤝‍🧑🏻
+### 🖐 Bienvenue sur mon GitHub ! &nbsp; ![](https://komarev.com/ghpvc/?username=MaxHwK&label=Visiteurs+:) 👩🏼‍🤝‍🧑🏻
 
 </div>
+
+#
 
 ### 🧑 Présentation
 
@@ -20,6 +22,8 @@
 ### 📈 Mes stats GitHub
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaxHwK&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+#
 
 <div align="center">
 
