@@ -14,7 +14,7 @@
 - 💾 &nbsp; Si vous souhaitez consulter mes différents <b>Projets</b> → [Cliquez ici](https://github.com/MaxHwK?tab=repositories).
 - 🌎 &nbsp; Si vous souhaitez consulter mon <b>Portfolio</b> → [Cliquez ici](https://maxhwk.github.io/).
 - 👨‍💼 &nbsp; Si vous souhaitez consulter mon <b>LinkedIn</b> → [Cliquez ici](https://www.linkedin.com/in/maxence-giron/).
-- 📝 &nbsp; Si vous souhaitez consulter mon <b>CV</b> → [Cliquez ici](https://maxhwk.github.io/public/doc/CV_Giron_Maxence.pdf).
+- 📝 &nbsp; Si vous souhaitez consulter mon <b>CV</b> → [Cliquez ici](https://maxhwk.github.io/public/doc/CV_GIRON_Maxence.pdf).
 - 📩 &nbsp; Pour toutes autres <b>questions</b>, n'hésitez pas à me contacter ici → gironmaxence.pro@gmail.com  
 
 ### 📈 Mes stats GitHub
