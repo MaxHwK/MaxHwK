@@ -1,12 +1,12 @@
 <div align="center">
     
-## 🖐 Bienvenue sur mon GitHub ! &nbsp; ![](https://komarev.com/ghpvc/?username=MaxHwK&label=Visiteurs+:) 👩🏼‍🤝‍🧑🏻
+## <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="Hello"> Bienvenue sur mon GitHub ! &nbsp; ![](https://komarev.com/ghpvc/?username=MaxHwK&label=Visiteurs+:) 👩🏼‍🤝‍🧑🏻
 
 </div>
 
-### 🧑 Présentation
+### 🚀 Présentation
 
-<div align="justify"> Je m'appelle <b>Maxence GIRON</b>, j'ai <b>20 ans</b> et je suis actuellement en <b>Licence Professionnelle Développeur Web et Mobile pour le Commerce Électronique (WMCE)</b> afin de devenir <b>Développeur Web Front-End | UX / UI Designer</b>. Par ailleurs, il se trouve que j'apprécie le contact ainsi que le fait d'avoir des responsabilités, si bien que le rôle de <b>Chef de Projet Digital</b> m'intéresse lui aussi tout particulièrement. 
+<div align="justify"> Je m'appelle <b>Maxence GIRON</b>, j'ai <b>21 ans</b> et je suis actuellement en <b>Licence Professionnelle Développeur Web et Mobile pour le Commerce Électronique (WMCE)</b> afin de devenir <b>Développeur Web Front-End | UX / UI Designer</b>. Par ailleurs, il se trouve que j'apprécie le contact ainsi que le fait d'avoir des responsabilités, si bien que le rôle de <b>Chef de Projet Digital</b> m'intéresse lui aussi tout particulièrement. 
 </div>
 
 ### 👨‍💻 Un peu plus d'infos sur moi
@@ -19,7 +19,7 @@
 
 ### 📈 Mes stats GitHub
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaxHwK&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+![MaxHwK's github stats](https://github-readme-stats.vercel.app/api?username=MaxHwK&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 #
 
