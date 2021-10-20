@@ -9,6 +9,8 @@
 <div align="justify"> Je m'appelle <b>Maxence GIRON</b>, j'ai <b>21 ans</b> et je suis actuellement en <b>Licence Professionnelle Développeur Web et Mobile pour le Commerce Électronique (WMCE)</b> afin de devenir <b>Développeur Web Front-End | UX / UI Designer</b>. Par ailleurs, il se trouve que j'apprécie le contact ainsi que le fait d'avoir des responsabilités, si bien que le rôle de <b>Chef de Projet Digital</b> m'intéresse lui aussi tout particulièrement. 
 </div>
 
+[![LinkedIn Badge](https://img.shields.io/badge/-Maxence%20GIRON-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge&link=https://www.linkedin.com/in/maxence-giron/)]
+
 ### 👨‍💻 Un peu plus d'infos sur moi
 
 - 💾 &nbsp; Si vous souhaitez consulter mes différents <b>Projets</b> → [Cliquez ici](https://github.com/MaxHwK?tab=repositories).
