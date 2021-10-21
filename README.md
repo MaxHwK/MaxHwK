@@ -28,7 +28,11 @@ Je m'appelle <b>Maxence GIRON</b>, j'ai <b>21 ans</b> et je suis actuellement en
 
 ### 📈 Mes Stats GitHub
 
+<div align="center">
+    
 ![MaxHwK's github stats](https://github-readme-stats.vercel.app/api?username=MaxHwK&count_private=true&theme=tokyonight&hide=contribs,prs)
+    
+</div>
 
 #
 
