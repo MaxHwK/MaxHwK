@@ -13,6 +13,8 @@ Je m'appelle <b>Maxence GIRON</b>, j'ai <b>21 ans</b> et je suis actuellement en
 </div>
 
 <div align="center">
+   
+<br>
     
 [![Chrome Badge](https://img.shields.io/badge/-mon%20portfolio-94399E?logo=google-cloud&logoColor=white&style=for-the-badge)](https://maxhwk.github.io/)
 [![GitHub Badge](https://img.shields.io/badge/-mes%20projets-FF7200?logo=github&logoColor=white&style=for-the-badge)](https://github.com/MaxHwK?tab=repositories)
