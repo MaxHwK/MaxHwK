@@ -1,14 +1,14 @@
 <div align="center">
     
-## <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="Hello">  Bienvenue sur mon GitHub ! &nbsp; ![](https://komarev.com/ghpvc/?username=MaxHwK&label=Visiteurs+:) 👫
-    
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=calibri&color=%237370F7&size=30&center=true&vCenter=true&lines=Hi%2C+I'm+Max+!;Nice+to+meet+you+!)](https://git.io/typing-svg)
+
 </div>
 
-### 🚀 Présentation
+### 🚀 About me
 
 <div align="justify"> 
     
-Je m'appelle <b>Maxence GIRON</b>, j'ai <b>21 ans</b> et je suis actuellement en <b>Licence Professionnelle Développeur Web et Mobile pour le Commerce Électronique (WMCE)</b> afin de devenir <b>Développeur Web Front-End | UX / UI Designer</b>. Par ailleurs, il se trouve que j'apprécie le contact ainsi que le fait d'avoir des responsabilités, si bien que le rôle de <b>Chef de Projet Digital</b> m'intéresse lui aussi tout particulièrement.  
+As a <b>21 year old Front-End Web Developer</b>, I am always looking for new challenges to discover and learn new technologies while having fun. I also like contacts and responsibilities, which is why I am particularly interested in the role of <b>Web Project Manager</b>. 
     
 </div>
 
@@ -16,28 +16,28 @@ Je m'appelle <b>Maxence GIRON</b>, j'ai <b>21 ans</b> et je suis actuellement en
    
 <br>
     
-[![Chrome Badge](https://img.shields.io/badge/-mon%20portfolio-94399E?logo=google-cloud&logoColor=white&style=for-the-badge)](https://maxhwk.github.io/)
-[![GitHub Badge](https://img.shields.io/badge/-mes%20projets-FF7200?logo=github&logoColor=white&style=for-the-badge)](https://github.com/MaxHwK?tab=repositories)
-[![LinkedIn Badge](https://img.shields.io/badge/-mon%20linkedin-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/maxence-giron/)
-[![CV Badge](https://img.shields.io/badge/-mon%20cv-83B81A?logo=apache&logoColor=white&style=for-the-badge)](https://maxhwk.github.io/public/assets/doc/CV_GIRON_Maxence.pdf)
+[![Chrome Badge](https://img.shields.io/badge/-my%20portfolio-94399E?logo=google-cloud&logoColor=white&style=for-the-badge)](https://maxhwk.github.io/)
+[![GitHub Badge](https://img.shields.io/badge/-my%20projects-FF7200?logo=github&logoColor=white&style=for-the-badge)](https://github.com/MaxHwK?tab=repositories)
+[![LinkedIn Badge](https://img.shields.io/badge/-my%20linkedin-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/maxence-giron/)
+[![CV Badge](https://img.shields.io/badge/-my%20cv-83B81A?logo=apache&logoColor=white&style=for-the-badge)](https://maxhwk.github.io/public/assets/doc/CV_GIRON_Maxence.pdf)
 [![Gmail Badge](https://img.shields.io/badge/-gironmaxence.pro-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:gironmaxence.pro@gmail.com)
     
 </div>
 
 #
 
-### 📈 Mes Stats GitHub
+<br>
 
 <div align="center">
     
-![MaxHwK's github stats](https://github-readme-stats.vercel.app/api?username=MaxHwK&count_private=true&theme=tokyonight&hide=contribs,prs)
-    
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=MaxHwK&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=false" alt="Max's GitHub Stats" /></a>
+
 </div>
 
 #
 
 <div align="center">
 
-### 😉 Merci d'être passé·e & Bonne journée ! ⛅
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=calibri&color=%237370F7&size=30&center=true&vCenter=true&lines=Have+a+nice+day+!;Bye+!)](https://git.io/typing-svg)
  
 </div>
