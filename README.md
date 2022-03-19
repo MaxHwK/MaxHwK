@@ -8,7 +8,7 @@
 
 <div align="justify"> 
     
-I'm a young <b>Front-End Web Developer</b> of 21 year old, I'm always looking for new challenges to discover and learn new technologies while having fun. I also like contacts and responsibilities, that's why I would like to evolve in the future towards a position of <b>Web Project Manager</b>.
+Young <b>Front-End Web Developer</b> of 21 year old, I'm always looking for new challenges to discover and learn new technologies while having fun. I also like contacts and responsibilities, that's why I would like to evolve in the future towards a position of <b>Web Project Manager</b>.
   
 </div>
 
