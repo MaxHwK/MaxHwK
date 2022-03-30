@@ -20,11 +20,10 @@ Young <b>Front-End Web Developer</b> of 21 year old, I'm always looking for new 
 
 <code><img title="HTML" alt="html" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
 <code><img title="CSS" alt="css" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
-<code><img title="Bootstrap" alt="bootstrap" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></code>
 <code><img title="JavaScript" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
 <code><img title="TypeScript" alt="typescript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></code>
-<code><img title="Ionic" alt="ionic" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" /></code>
 <code><img title="Angular" alt="angular" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /></code>
+<code><img title="Ionic" alt="ionic" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" /></code>
 <code><img title="React" alt="react" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
 <code><img title="Vue.js" alt="vue.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /></code>
 
@@ -46,7 +45,7 @@ Young <b>Front-End Web Developer</b> of 21 year old, I'm always looking for new 
 
 #
 
-### 👀 Number of visitors 
+### 👀 Visitor counter
 
 <div align="center">
     
@@ -60,7 +59,7 @@ Young <b>Front-End Web Developer</b> of 21 year old, I'm always looking for new 
 
 <div align="center">
     
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=MaxHwK&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=false" alt="Max's GitHub Stats" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=MaxHwK&show_icons=true&include_all_commits=true&theme=rose_pine&hide_border=false" alt="Max GitHub Stats" /></a>
 
 </div>
 
