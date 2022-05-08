@@ -8,7 +8,7 @@
 
 <div align="justify"> 
     
-Young <b>Front-End Web Developer</b> of 21 year old, I'm always looking for new challenges to discover and learn new technologies while having fun. I also like contacts and responsibilities, that's why I would like to evolve in the future towards a position of <b>Web Project Manager</b>.
+Young passionate about web development, I am constantly looking for new challenges in order to discover new technologies and deepen my knowledge. Moreover, I appreciate contacts as well as the fact of having responsibilities, that's why I aspire to evolve towards a position of <b>Web Project Manager</b>.
   
 </div>
 
@@ -24,7 +24,6 @@ Young <b>Front-End Web Developer</b> of 21 year old, I'm always looking for new 
 <code><img title="JavaScript" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
 <code><img title="TypeScript" alt="typescript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></code>
 <code><img title="Angular" alt="angular" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /></code>
-<code><img title="Ionic" alt="ionic" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" /></code>
 <code><img title="React" alt="react" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
 <code><img title="Vue.js" alt="vue.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /></code>
 
