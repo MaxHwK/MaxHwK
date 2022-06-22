@@ -22,10 +22,10 @@ Young passionate about web development, I am constantly looking for new challeng
 <code><img title="CSS" alt="css" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
 <code><img title="Sass" alt="sass" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /></code>
 <code><img title="JavaScript" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
-<code><img title="TypeScript" alt="typescript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></code>
-<code><img title="Angular" alt="angular" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /></code>
-<code><img title="React" alt="react" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
 <code><img title="VueJS" alt="vue.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /></code>
+<code><img title="PHP" alt="php" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></code>
+<code><img title="Laravel" alt="laravel" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" /></code>
+
 
 </div>
 
@@ -39,6 +39,7 @@ Young passionate about web development, I am constantly looking for new challeng
 [![GitHub Badge](https://img.shields.io/badge/-my%20last%20projects-FF7200?logo=github&logoColor=white&style=for-the-badge)](https://github.com/MaxHwK?tab=repositories)
 [![CV Badge](https://img.shields.io/badge/-my%20cv%20[fr]-83B81A?logo=apache&logoColor=white&style=for-the-badge)](https://maxhwk.github.io/public/assets/doc/CV_GIRON_Maxence.pdf)
 [![LinkedIn Badge](https://img.shields.io/badge/-my%20linkedin-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/maxence-giron/)
+[![Twitter Badge](https://img.shields.io/badge/-my%20twitter-0A66C2?logo=twitter&logoColor=white&style=for-the-badge)](https://www.twitter.com/maxhwk_)
 [![Gmail Badge](https://img.shields.io/badge/-gironmaxence.pro-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:gironmaxence.pro@gmail.com)
     
 </div>
