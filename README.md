@@ -39,8 +39,8 @@ Young passionate about web development, I am constantly looking for new challeng
 [![GitHub Badge](https://img.shields.io/badge/-my%20last%20projects%20[en]-FF7200?logo=github&logoColor=white&style=for-the-badge)](https://github.com/MaxHwK?tab=repositories)
 [![CV Badge](https://img.shields.io/badge/-my%20cv%20[fr]-83B81A?logo=apache&logoColor=white&style=for-the-badge)](https://maxhwk.github.io/public/assets/doc/CV_GIRON_Maxence.pdf)
 [![LinkedIn Badge](https://img.shields.io/badge/-my%20linkedin%20[fr]-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/maxence-giron/)
-[![Twitter Badge](https://img.shields.io/badge/-my%20twitter%20[en]-0A66C2?logo=twitter&logoColor=white&style=for-the-badge)](https://www.twitter.com/maxhwk_)
-[![Gmail Badge](https://img.shields.io/badge/-gironmaxence.pro%20[fr/en]-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:gironmaxence.pro@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-my%20twitter%20[en]-00ACEE?logo=twitter&logoColor=white&style=for-the-badge)](https://www.twitter.com/maxhwk_)
+[![Gmail Badge](https://img.shields.io/badge/-gironmaxence.pro%20-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:gironmaxence.pro@gmail.com)
     
 </div>
 
