@@ -58,7 +58,7 @@ Young passionate about web development, I am constantly looking for new challeng
 
 <div align="center">
     
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=MaxHwK&show_icons=true&include_all_commits=true&theme=rose_pine&hide_border=false" alt="Max GitHub Stats" /></a>
+![Max' GitHub Stats](https://github-readme-stats.vercel.app/api?username=maxhwk&show_icons=true&bg_color=00000000)
 
 </div>
 
