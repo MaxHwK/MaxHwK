@@ -35,11 +35,10 @@ Young passionate about web development, I am constantly looking for new challeng
 
 <div align="center">
    
-[![Chrome Badge](https://img.shields.io/badge/-portfolio-94399E?logo=google-cloud&logoColor=white&style=for-the-badge)](https://maxhwk.github.io/)
-[![GitHub Badge](https://img.shields.io/badge/-last%20projects-FF7200?logo=github&logoColor=white&style=for-the-badge)](https://github.com/MaxHwK?tab=repositories)
-[![LinkedIn Badge](https://img.shields.io/badge/-linkedin-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/maxence-giron/)
-[![Twitter Badge](https://img.shields.io/badge/-twitter-00ACEE?logo=twitter&logoColor=white&style=for-the-badge)](https://www.twitter.com/maxhwk_)
-[![Gmail Badge](https://img.shields.io/badge/-email-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:gironmaxence.pro@gmail.com)
+[![Chrome Badge](https://img.shields.io/badge/-visit%20my%20portfolio-94399E?logo=google-cloud&logoColor=white&style=for-the-badge)](https://maxhwk.github.io)
+[![LinkedIn Badge](https://img.shields.io/badge/-connect%20with%20me-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/maxence-giron)
+[![Twitter Badge](https://img.shields.io/badge/-chat%20with%20me-00ACEE?logo=twitter&logoColor=white&style=for-the-badge)](https://www.twitter.com/maxhwk_)
+[![Gmail Badge](https://img.shields.io/badge/-send%20me%20an%20email-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:gironmaxence.pro@gmail.com)
     
 </div>
 
