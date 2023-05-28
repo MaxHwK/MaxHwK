@@ -15,13 +15,13 @@ Really passionate about <b>web development</b>, I am constantly looking for new 
 ### ❤ Favorite technologies
 
 <div align="justify">
-<code><img title="HTML" alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
-<code><img title="Sass" alt="Sass" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /></code>
-<code><img title="JavaScript" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
-<code><img title="React" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/reactjs-original.svg" /></code>
-<code><img title="Vue" alt="Vue" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /></code>
-<code><img title="PHP" alt="PHP" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></code>
-<code><img title="Laravel" alt="Laravel" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" /></code>
+<code><img title="HTML" alt="HTML" width="40px" src="https://maxhwk.github.io/public/img/html.webp" /></code>
+<code><img title="Sass" alt="Sass" width="40px" src="https://maxhwk.github.io/public/img/sass.webp" /></code>
+<code><img title="JavaScript" alt="JavaScript" width="40px" src="https://maxhwk.github.io/public/img/javascript.webp" /></code>
+<code><img title="React" alt="React" width="40px" src="https://maxhwk.github.io/public/img/react.webp" /></code>
+<code><img title="Vue" alt="Vue" width="40px" src="https://maxhwk.github.io/public/img/vue.webp" /></code>
+<code><img title="PHP" alt="PHP" width="40px" src="https://maxhwk.github.io/public/img/php.webp" /></code>
+<code><img title="Laravel" alt="Laravel" width="40px" src="https://maxhwk.github.io/public/img/laravel.webp" /></code>
 </div>
 
 <br>
