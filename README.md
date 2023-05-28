@@ -8,7 +8,7 @@
 
 <div align="justify"> 
     
-Young passionate about web development, I am constantly looking for new challenges in order to discover new technologies and deepen my knowledge. Moreover, I appreciate contacts as well as the fact of having responsibilities, that's why I aspire to evolve towards a position of <b>Web Project Manager</b>.
+Really passionate about <b>web development</b>, I am constantly looking for new challenges in order to discover new technologies and deepen my knowledge. Moreover, I appreciate contacts as well as the fact of having responsibilities, that's why I aspire to evolve towards a position of <b>Web Project Manager</b>.
   
 </div>
 
