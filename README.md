@@ -7,9 +7,7 @@
 ### 🚀 About me
 
 <div align="justify"> 
-    
 Really passionate about <b>web development</b>, I am constantly looking for new challenges in order to discover new technologies and deepen my knowledge. Moreover, I appreciate contacts as well as the fact of having responsibilities, that's why I aspire to evolve towards a position of <b>Web Project Manager</b>.
-  
 </div>
 
 <br>
@@ -17,16 +15,13 @@ Really passionate about <b>web development</b>, I am constantly looking for new 
 ### ❤ Favorite technologies
 
 <div align="justify">
-
-<code><img title="HTML" alt="html" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
-<code><img title="CSS" alt="css" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
-<code><img title="Sass" alt="sass" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /></code>
-<code><img title="JavaScript" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
-<code><img title="VueJS" alt="vue.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /></code>
-<code><img title="PHP" alt="php" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></code>
-<code><img title="Laravel" alt="laravel" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" /></code>
-
-
+<code><img title="HTML" alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
+<code><img title="Sass" alt="Sass" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /></code>
+<code><img title="JavaScript" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
+<code><img title="React" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/reactjs-original.svg" /></code>
+<code><img title="Vue" alt="Vue" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /></code>
+<code><img title="PHP" alt="PHP" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></code>
+<code><img title="Laravel" alt="Laravel" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" /></code>
 </div>
 
 <br>
@@ -34,12 +29,12 @@ Really passionate about <b>web development</b>, I am constantly looking for new 
 ### 🧩 Useful links
 
 <div align="center">
-   
+    
 [![Chrome Badge](https://img.shields.io/badge/-visit%20my%20portfolio-94399E?logo=google-cloud&logoColor=white&style=for-the-badge)](https://maxhwk.github.io)
 [![LinkedIn Badge](https://img.shields.io/badge/-connect%20with%20me-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/maxence-giron)
 [![Twitter Badge](https://img.shields.io/badge/-chat%20with%20me-00ACEE?logo=twitter&logoColor=white&style=for-the-badge)](https://www.twitter.com/maxhwk_)
-[![Gmail Badge](https://img.shields.io/badge/-send%20me%20an%20email-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:gironmaxence.pro@gmail.com)
-    
+[![Gmail Badge](https://img.shields.io/badge/-send%20me%20an%20email-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:gironmaxence.pro@gmail.com)  
+
 </div>
 
 #
@@ -47,9 +42,7 @@ Really passionate about <b>web development</b>, I am constantly looking for new 
 ### 👀 Visitor counter
 
 <div align="center">
-    
 <img alt="visitors" src="https://profile-counter.glitch.me/MaxHwK/count.svg">
-    
 </div>
 
 #
@@ -58,14 +51,14 @@ Really passionate about <b>web development</b>, I am constantly looking for new 
 
 <div align="center">
     
-![Max' GitHub Stats](https://github-readme-stats.vercel.app/api?username=maxhwk&show_icons=true&bg_color=00000000)
-
+![Max GitHub Stats](https://github-readme-stats.vercel.app/api?username=maxhwk&show_icons=true&bg_color=00000000)
+    
 </div>
 
 #
 
 <div align="center">
-
+    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=calibri&color=%237370F7&size=30&center=true&vCenter=true&lines=Have+a+nice+day+!;Bye+!)](https://git.io/typing-svg)
- 
+    
 </div>
