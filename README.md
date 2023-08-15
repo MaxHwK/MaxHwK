@@ -30,21 +30,10 @@ Really passionate about <b>web development</b>, I am constantly looking for new 
 
 <div align="center">
 
-<a href="https://maxhwk.github.io" target="_blank">
-  <img src="https://img.shields.io/badge/-visit%20my%20portfolio-94399E?logo=google-cloud&logoColor=white&style=for-the-badge" alt="Portfolio Badge">
-</a>
-
-<a href="https://www.linkedin.com/in/maxence-giron" target="_blank">
-  <img src="https://img.shields.io/badge/-connect%20with%20me-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge">
-</a>
-
-<a href="https://www.twitter.com/maxhwk_" target="_blank">
-  <img src="https://img.shields.io/badge/-chat%20with%20me-010101?logo=x&logoColor=white&style=for-the-badge" alt="X Badge">
-</a>
-
-<a href="mailto:gironmaxence.pro@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-send%20me%20an%20email-EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge">
-</a>
+[![Portfolio Badge](https://img.shields.io/badge/-visit%20my%20portfolio-94399E?logo=google-cloud&logoColor=white&style=for-the-badge)](https://maxhwk.github.io)
+[![LinkedIn Badge](https://img.shields.io/badge/-connect%20with%20me-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/maxence-giron)
+[![X Badge](https://img.shields.io/badge/-chat%20with%20me-010101?logo=x&logoColor=white&style=for-the-badge)](https://www.twitter.com/maxhwk_)
+[![Gmail Badge](https://img.shields.io/badge/-send%20me%20an%20email-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:gironmaxence.pro@gmail.com)
 
 </div>
 
