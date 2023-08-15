@@ -30,9 +30,9 @@ Really passionate about <b>web development</b>, I am constantly looking for new 
 
 <div align="center">
     
-[![Chrome Badge](https://img.shields.io/badge/-visit%20my%20portfolio-94399E?logo=google-cloud&logoColor=white&style=for-the-badge)](https://maxhwk.github.io)
+[![Portfolio Badge](https://img.shields.io/badge/-visit%20my%20portfolio-94399E?logo=google-cloud&logoColor=white&style=for-the-badge)](https://maxhwk.github.io)
 [![LinkedIn Badge](https://img.shields.io/badge/-connect%20with%20me-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/maxence-giron)
-[![Twitter Badge](https://img.shields.io/badge/-chat%20with%20me-00ACEE?logo=twitter&logoColor=white&style=for-the-badge)](https://www.twitter.com/maxhwk_)
+[![X Badge](https://img.shields.io/badge/-chat%20with%20me-010101?logo=x&logoColor=white&style=for-the-badge)](https://www.twitter.com/maxhwk)
 [![Gmail Badge](https://img.shields.io/badge/-send%20me%20an%20email-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:gironmaxence.pro@gmail.com)  
 
 </div>
